@@ -1,6 +1,9 @@
 # Smartie - Smart Plug Socket
 
-This repository contains the details of **Smartie**, an innovative smart plug developed as part of the Semester 4 EN2160 Electronic Design Realization module. Smartie combines convenience, energy management, and safety features to create a versatile addition to any smart home setup. 
+This repository contains the details of **Smartie**, an innovative smart plug developed as part of the Semester 4 EN2160 Electronic Design Realization module. Smartie combines convenience, energy management, and safety features to create a versatile addition to any smart home setup.
+<p align="center">
+  <img src="Images/Product/Product01.png width="200" />
+</p>
 
 ## Features
 

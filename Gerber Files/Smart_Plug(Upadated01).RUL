@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\chris\Desktop\Project\Gerber\Smart_Plug(Updated03)\clenson PCB\clenson PCB\Smart_Plug(Upadated01).PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_3|Scope=Board|Minimum=0.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_2|Scope=Board|Minimum=0.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_1|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=Width_Power|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

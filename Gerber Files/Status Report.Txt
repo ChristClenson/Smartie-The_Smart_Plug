@@ -1,0 +1,30 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Smart_Plug(Upadated01).PrjPcb]
+   Generated File[Smart_Plug(Upadated01).GTL]
+   Generated File[Smart_Plug(Upadated01).GBL]
+   Generated File[Smart_Plug(Upadated01).GPB]
+   Generated File[Smart_Plug(Upadated01).GPT]
+   Generated File[Smart_Plug(Upadated01).GTO]
+   Generated File[Smart_Plug(Upadated01).GTS]
+   Generated File[Smart_Plug(Upadated01).GBS]
+   Generated File[Smart_Plug(Upadated01).GM2]
+   Generated File[Smart_Plug(Upadated01).GM3]
+   Generated File[Smart_Plug(Upadated01).GM5]
+   Generated File[Smart_Plug(Upadated01).GM13]
+   Generated File[Smart_Plug(Upadated01).GM15]
+   Generated File[Smart_Plug(Upadated01).GM16]
+   Generated File[Smart_Plug(Upadated01).GM]
+   Generated File[Smart_Plug(Upadated01).GBR1]
+   Generated File[Smart_Plug(Upadated01).GBR2]
+   Generated File[Smart_Plug(Upadated01).GD1]
+   Generated File[Smart_Plug(Upadated01).GG1]
+   Generated File[Smart_Plug(Upadated01).RUL]
+   Generated File[Smart_Plug(Upadated01).EXTREP]
+   Generated File[Smart_Plug(Upadated01).REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 10:27:57 PM On 4/27/2023
